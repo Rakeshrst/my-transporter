@@ -1,0 +1,13 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+}
+
+  .login-button{
+      width: 30px;
+  }
+
+  .mat-card{
+    width: 50%;
+    margin: auto;
+  }
